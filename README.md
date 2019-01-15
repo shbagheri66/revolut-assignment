@@ -3,6 +3,9 @@
 A Java RESTful API for transfer money between accounts
 
 ### Run project
+enter in command line : 
+mvn exec:java
+or
 Run Application.java or fat jar
 
 Application will start a jetty server on localhost port 8080 
